@@ -1,0 +1,32 @@
+{
+  "articulos": [
+    {
+      "id": "r3iq1-Zj",
+      "nombre": "Lavadora",
+      "precio": "1540.0",
+      "marca": "LG",
+      "stock": "15"
+    },
+    {
+      "id": "KIUUqJKU",
+      "nombre": "Secadora",
+      "precio": "1300.0",
+      "marca": "Samsung",
+      "stock": "20"
+    },
+    {
+      "id": "0XOZ5LgG",
+      "nombre": "Licuadora",
+      "precio": "500.0",
+      "marca": "Imaco",
+      "stock": "26"
+    },
+    {
+      "id": "FnrimQLD",
+      "nombre": "Cocina",
+      "precio": 5640,
+      "marca": "LG",
+      "stock": 5
+    }
+  ]
+}
